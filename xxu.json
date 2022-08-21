@@ -125,15 +125,15 @@
     {"key":"盘看看","name":"盘看看(聚)","type":1,"api":"http://tvcaiji.pankk.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 ## 搜搜
-   {
+  {
       "key": "Gitcafe",
-      "name": "小纸条〔SP〕",
+      "name": "📜小纸条〔SP〕",
       "type": 3,
       "api": "csp_Gitcafe",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "1f373a68733e4dafa5fa28dca9826b35"
+      "ext": "3a49cf29cf20410997247c6eb4509be9"
     },
     {
       "key": "zhaozy",
