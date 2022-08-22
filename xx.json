@@ -54,6 +54,11 @@
       "type": 2,
       "url": "Sequence"
     },
+     { 
+      "name":"北雁",
+      "type":1,
+      "url":"https://jx.beiyan.cc:4433/?url="
+    },
     {
       "name": "油果",
       "type": 1,
