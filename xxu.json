@@ -17,6 +17,8 @@
     {"key": "csp_厂长资源","name": "🥈厂长资源(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/厂长资源-蓝光.json"},
     {"key":"csp_biubiu_voflix","name":"🥈voflix(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/voflix.json"},
     
+     {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+    {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key": "T4","name": "T4搜索","type": 4,"api": "https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=5","searchable": 1,"quickSearch": 1,"filterable": 1},    
 
     {"key":"csp_biubiu_万能影视","name":"🥈万能影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/万能影视.json"},
@@ -108,8 +110,7 @@
 
 
 ##  切片资源
-   {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
-    {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+  
     {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
     {"key":"冠军资源","name":"冠军资源(切)","type":1,"api":"https://www.cmpzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},    
@@ -196,7 +197,7 @@
     {"name": "云you解析①","type": 1,"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dfgilnotuyDGHMQW34&url="}, 
     {"name": "油果","type": 1,"url": "http://json.youguo520.top/fufeng/?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"],"header": {"User-Agent": "Dart/2.14 (dart:io)"}}},
     {"name": "搬运","type": 1,"url": "https://jx.bynote.top/API.php?url=","ext": {"flag": ["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
-    {"name":"刚刚影视","type":1,"url": " https://vip.fuqizhishi.com/?v="},
+    {"name":"刚刚影视","type":1,"url": "https://vip.fuqizhishi.com/?v="},
     {"name":"盘古","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="}, 
     {"name":"老板","type":1,"url":"https://vip.laobandq.com/jiexi.php?url="},
     {"name":"ckmov","type":1,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
