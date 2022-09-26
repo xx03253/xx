@@ -44,6 +44,22 @@
      {"key":"多多资源","name":"多多资源(切)","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod","searchable":1,"quickSearch":1},
     {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	  
 	  
+## XYPQ系列
+    {"key":"csp_XBPQ_真不卡","name":"真不卡〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/真不卡.json"},
+    {"key":"csp_XBPQ_极品影视","name":"极品影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/极品影视.json"},
+    {"key":"csp_XBPQ_555电影","name":"555电影〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/555电影.json"},
+    {"key":"csp_XBPQ_花猫TV","name":"花猫TV〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/花猫TV.json"},
+    {"key":"csp_XBPQ_宝仙HD","name":"宝仙HD〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/宝仙HD.json"},
+    {"key":"csp_XBPQ_蓝光影院","name":"蓝光影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/蓝光影院.json"},
+    {"key":"csp_XBPQ_voflixHD","name":"voflixHD〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/voflixHD.json"},
+    {"key":"csp_XBPQ_胖虎影视","name":"胖虎影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/胖虎影视.json"},
+    {"key":"csp_XBPQ_Cokemv","name":"Cokemv〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/cokemv.json"},
+    {"key":"csp_XBPQ_巨人影院","name":"巨人影院〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/巨人影院.json"},
+    {"key":"csp_XBPQ_黑洞影视","name":"黑洞影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/黑洞影视.json"},
+     {"key":"csp_XBPQ_皮皮泡影视","name":"皮皮泡影视〔XBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/xx03253/xxu/master/XBPQ/皮皮泡影视.json"},
+
+	  
+	  
 ##  速度还行
     //{"key": "csp_厂长资源","name": "🥈厂长资源(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/厂长资源-蓝光.json"},
     {"key": "csp_影视工厂","name": "🥈影视工厂(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.githubusercontents.com/xx03253/xxu/master/MaooXB2/影视工厂.json"},
